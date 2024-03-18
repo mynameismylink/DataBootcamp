@@ -18,6 +18,6 @@ Welcome to my repository containing projects from the Data Analyst Bootcamp prov
 
 If you have any questions or feedback about the projects, feel free to reach out to me:
 - Email: mailinh.nguyen871@gmail.com
-- Linked-in: https://www.linkedin.com/in/mai-linh-sandy-nguyen-586305203/
+- Linkedin: https://www.linkedin.com/in/mai-linh-sandy-nguyen-586305203/
 
 Thank you for visiting!
